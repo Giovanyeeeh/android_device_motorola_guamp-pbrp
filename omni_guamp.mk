@@ -26,7 +26,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 $(call inherit-product, device/motorola/guamp/device.mk)
 
 # Inherit some common PitchBlack stuff.
-$(call inherit-product, vendor/pb/config/common.mk)
+$(call inherit-product, vendor/twrp/config/common.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := guamp
