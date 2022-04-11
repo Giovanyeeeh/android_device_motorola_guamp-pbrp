@@ -1,4 +1,5 @@
-![Moto G9 Play](https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g9-play.jpg "Moto G9 Play")
+![motorola-moto-g9-play-09150911208039](https://user-images.githubusercontent.com/86035674/162775017-4e429f5b-582c-4dd5-ac99-72c7d2a5c338.png)
+
 =====================================================
 Basic   | Specs
 -------:|:-------------------------
